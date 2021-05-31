@@ -1,8 +1,11 @@
-## Hello there, I'm Sivieri
+## Hello there, I'm Sivieri and I'm currently finishing my Science Master degree at [Aeronautics Institute of Technology][ITA]
 
-### I'm currently doing ::
-- Master's degree student in Physics
-- Data Science Bootcamp by [<img align="text" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" />][website]
+### Things I'm currently working on ::
+<details>
+    <sumary><b> Finishing my Science Master degree</b> <i>(click to expand!)</i></sumary>
+    Lagrangean Coherent Structures in Astrodynamic Models - *the code (**fortran language**) that I am writing for this work will be available by the end of this year (**2021**)*
+</details>
+- Taking a Bootcamp of Data Science by [<img align="text" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" />][website]
 
 ![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&count_private=true&show_icons=true&theme=radical) 
 
@@ -25,3 +28,4 @@
 [instagram]: https://www.instagram.com/
 [twitter]: https://twitter.com/LuizSivieri
 [linkedin]: https://www.linkedin.com/in/luiz-eduardo-sivieri-371bab188/
+[ITA]: http://www.ita.br/
