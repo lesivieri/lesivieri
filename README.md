@@ -2,7 +2,7 @@
 
 ### I'm currently doing ::
 - Master's degree student in Physics
-- Data Science Bootcamp by [<img align="right" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" />][website]
+- Data Science Bootcamp by [<img align="text" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" />][website]
 
 ![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=radical) 
 
