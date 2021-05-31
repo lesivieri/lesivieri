@@ -4,9 +4,7 @@
 - Master's degree student in Physics
 - Data Science Bootcamp by [Alura][website]
 
-![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&langs_count=8)](https://github.com/lesivieri/github-readme-stats)
+![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&langs_count=8)](https://github.com/lesivieri/github-readme-stats)
 
 
 ### Connect with me :: 
