@@ -12,6 +12,8 @@
 [<img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" />]
 [<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />]
 
+<br />
+
 ### Connect with me :: 
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
