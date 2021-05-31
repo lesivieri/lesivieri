@@ -4,8 +4,13 @@
 - Master's degree student in Physics
 - Data Science Bootcamp by [Alura][website]
 
-![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&langs_count=8)](https://github.com/lesivieri/github-readme-stats)
+![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=radical) 
 
+### Languages and Tools ::
+[<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" />]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]
+[<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />]
+[<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />]
 
 ### Connect with me :: 
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
