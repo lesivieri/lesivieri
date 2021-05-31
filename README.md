@@ -14,7 +14,7 @@
 ### Connect with me :: 
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icon@3.0.1/icons/instagram.svg" />][instagram]
+[<img align="left" alt="instagram" width="26px" src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721672-instagram_108066.png" />][instagram]
 
 <br />
 <br />
