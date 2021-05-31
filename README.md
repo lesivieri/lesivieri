@@ -1,12 +1,11 @@
-## Hello there, I'm Sivieri and I'm currently finishing my Science Master degree at [Aeronautics Institute of Technology][ITA]
+## Hello there, I'm Sivieri and I'm currently finishing my Master of Science degree at [Aeronautics Institute of Technology][ITA]
 
 ### Things I'm currently working on ::
-<details>
-<summary> <b> Finishing my Science Master degree </b> <i>(click to expand!)</i> </summary>
-    Lagrangian Coherent Structures in Astrodynamic Models - <i>the code (<b>fortran language</b>) that I am writing for this work will be available by the end of this year (<b>2021</b>)</i>
-</details>
 
-* Taking a Bootcamp of Data Science by [<img align="" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" /></img>][website]
+1.  <b> Finishing my Master of Science degree </b>
+--* <i>Lagrangian Coherent Structures in Astrodynamic Models -- the code (<b>fortran language</b>) that I am writing for this work will be available by the end of this year (<b>2021</b>)</i>
+
+2.  Taking a Bootcamp of Data Science by [<img align="" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" /></img>][website]
 
 <br />
 
