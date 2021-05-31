@@ -7,7 +7,7 @@
 1.  <b> Finishing my Master's degree </b> <br />
     * <i>Lagrangian Coherent Structures in Astrodynamic Models -- the code (<b>fortran language</b>) that I am writing for this work will be available by the end of this year (<b>2021</b>)</i>
 
-2.  Taking a Bootcamp of Data Science by [<img align="" alt="alura" width="38px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" /></img>][website]
+2.  <b>Taking a Bootcamp of Data Science by</b> [<img align="" alt="alura" width="38px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" /></img>][website]
 
 <br />
 
