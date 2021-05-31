@@ -7,9 +7,11 @@
 ![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&count_private=true&show_icons=true&theme=radical) 
 
 ### Languages and Tools ::
-<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
+<img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
+<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" /></img>
+<br />
 
 ### Connect with me :: 
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
