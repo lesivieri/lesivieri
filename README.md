@@ -3,9 +3,12 @@
 ### Things I'm currently working on ::
 <details>
 <summary> <b> Finishing my Science Master degree </b> <i>(click to expand!)</i> </summary>
-    Lagrangian Coherent Structures in Astrodynamic Models - *the code (**fortran language**) that I am writing for this work will be available by the end of this year (**2021**)*
+    Lagrangian Coherent Structures in Astrodynamic Models - <i>the code (<b>fortran language</b>) that I am writing for this work will be available by the end of this year (<b>2021</b>)</i>
 </details>
+<br />
 - Taking a Bootcamp of Data Science by [<img align="text" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" />][website]
+
+<br />
 
 ![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&count_private=true&show_icons=true&theme=radical) 
 
