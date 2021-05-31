@@ -2,8 +2,8 @@
 
 ### Things I'm currently working on ::
 <details>
-    <sumary><b> Finishing my Science Master degree</b> <i>(click to expand!)</i></sumary>
-    Lagrangean Coherent Structures in Astrodynamic Models - *the code (**fortran language**) that I am writing for this work will be available by the end of this year (**2021**)*
+<summary> <b> Finishing my Science Master degree </b> <i>(click to expand!)</i> </summary>
+    Lagrangian Coherent Structures in Astrodynamic Models - *the code (**fortran language**) that I am writing for this work will be available by the end of this year (**2021**)*
 </details>
 - Taking a Bootcamp of Data Science by [<img align="text" alt="alura" width="50px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" />][website]
 
