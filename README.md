@@ -1,14 +1,14 @@
 
 <h2 align="center"><b>Olá a todos :vulcan_salute:</b></h2>
 
-<h3 align="center"><b> Sobre Mim </b></h3>
+<h3 align="left"><b> Sobre Mim </b></h3>
 
 Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). 
 
 ### Projetos em Desenvolvimeto
 
 * Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
-* 
+* Resumo de todos os conteúdos de Física _(em construção ➡️ [resumo_física] ) _ e Matemática _(indisponível)_ a nível do Ensino Médio
 
 #### Linguagens e Ferramentas
 
@@ -45,3 +45,6 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [PUC-PR]: https://www.pucpr.br/cursos-graduacao/fisica/
 [PIBID]: http://portal.mec.gov.br/pibid
 [SEED-PR]: https://www.educacao.pr.gov.br/
+
+<!-- Projetos -->
+[resumo_física]: https://lesivieri.github.io/fisem/teste3
