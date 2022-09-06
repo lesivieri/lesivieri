@@ -11,9 +11,6 @@
 
 <br />
 
-![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&count_private=true&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&theme=radical)
-
 #### Languages and Tools ::
 <img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
@@ -29,16 +26,19 @@
 <br />
 <br />
 
-[website]: https://www.alura.com.br/
-[instagram]: https://www.instagram.com/
-[twitter]: https://twitter.com/LuizSivieri
-[linkedin]: https://www.linkedin.com/in/luiz-eduardo-sivieri-371bab188/
-[ITA]: http://www.ita.br/
-
 ##
+<p>
 <div align="center">
     <a href="https://github.com/lesivieri">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+</p>
 
+
+<!-- SITES -->
+[website]: https://www.alura.com.br/
+[instagram]: https://www.instagram.com/
+[twitter]: https://twitter.com/LuizSivieri
+[linkedin]: https://www.linkedin.com/in/luiz-eduardo-sivieri-371bab188/
+[ITA]: http://www.ita.br/
