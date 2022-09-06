@@ -12,6 +12,7 @@
 <br />
 
 ![Sivieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesivieri&count_private=true&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&theme=radical)
 
 #### Languages and Tools ::
 <img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
