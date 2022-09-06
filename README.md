@@ -1,4 +1,5 @@
-## Hello there :vulcan_salute:
+
+<h2 align="center"><b>Hello there :vulcan_salute:</b></h2>
 
 ### I'm Sivieri and I'm currently finishing my Master's degree in Physics at [Aeronautics Institute of Technology][ITA]
 
