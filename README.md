@@ -4,13 +4,15 @@
 <h3 align="left"><b> Sobre Mim </b></h3>
 
 Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). 
+<br/>
 
 ### Projetos em Desenvolvimeto
 
 * Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
-* Resumo de todos os conteúdos de Física _([em construção])_ e Matemática _(indisponível)_ a nível do Ensino Médio
+* Resumo de todos os conteúdos de Física _( [em construção] )_ e Matemática _( indisponível )_ a nível do Ensino Médio
+<br/>
 
-#### Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
 <img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
@@ -18,10 +20,11 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" /></img>
 <br />
 
-#### Connect with me :: 
+### Contato
+
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="instagram" width="26px" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" />][instagram]
+[<img align="left" alt="gmail" width="26px" src="[https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)" />][gmail]
 
 <br />
 <br />
