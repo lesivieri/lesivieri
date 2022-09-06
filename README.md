@@ -20,6 +20,10 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
 <img align="left" alt="html" width="26px" src="https://camo.githubusercontent.com/984b2a88651f862c502e3881c6fa5d27f077948241fe49684a0879cae28014e2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"/></img>
 <img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/TUX-G2-SVG.svg"/></img>
+<img align="left" alt="git" width="26px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"/></img>
+<img align="left" alt="github" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/8/86/TUX-G2-SVG.svg](https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667)"/></img>
+<img align="left" alt="css" width="26px" src="https://camo.githubusercontent.com/7894f44095e8df88e2c12b0f2c91441ca66d029cf10ae3c068362bb9e68d3df9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667"/></img>
+
 <br />
 
 ### Contato
@@ -28,7 +32,6 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
-<br />
 <br />
 
 ##
