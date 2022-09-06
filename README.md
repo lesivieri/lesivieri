@@ -8,7 +8,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 ### Projetos em Desenvolvimeto
 
 * Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
-* Resumo de todos os conteúdos de Física _(em construção ➡️ [resumo_física] )_ e Matemática _(indisponível)_ a nível do Ensino Médio
+* Resumo de todos os conteúdos de Física _([em construção])_ e Matemática _(indisponível)_ a nível do Ensino Médio
 
 #### Linguagens e Ferramentas
 
@@ -47,4 +47,4 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [SEED-PR]: https://www.educacao.pr.gov.br/
 
 <!-- Projetos -->
-[resumo_física]: https://lesivieri.github.io/fisem/teste3
+[em construção]: https://lesivieri.github.io/fisem/teste3
