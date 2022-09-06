@@ -19,7 +19,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
 <img align="left" alt="html" width="26px" src="https://camo.githubusercontent.com/984b2a88651f862c502e3881c6fa5d27f077948241fe49684a0879cae28014e2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"/></img>
-<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
+<img align="left" alt="linux" width="26px" src="https://toppng.com/uploads/preview/tux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png"/></img>
 <br />
 
 ### Contato
