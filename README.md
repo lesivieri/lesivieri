@@ -48,6 +48,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [PUC-PR]: https://www.pucpr.br/cursos-graduacao/fisica/
 [PIBID]: http://portal.mec.gov.br/pibid
 [SEED-PR]: https://www.educacao.pr.gov.br/
+[gmail]: mailto:lesivieri.dev@gmail.com
 
 <!-- Projetos -->
 [em construção]: https://lesivieri.github.io/fisem/teste3
