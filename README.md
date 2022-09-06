@@ -36,9 +36,9 @@
 [ITA]: http://www.ita.br/
 
 ##
-<p align="center">
-<a href="https://github.com/lesivieri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lesivieri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lesivieri&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+    <a href="https://github.com/lesivieri">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lesivieri&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesivieri&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
