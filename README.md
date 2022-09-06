@@ -1,9 +1,17 @@
 
 <h2 align="center"><b>Olá a todos :vulcan_salute:</b></h2>
 
-Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). Trabalho na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
+<h3 align="center"><b> Sobre Mim </b></h3>
 
-#### Languages and Tools ::
+Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). 
+
+### Projetos em Desenvolvimeto
+
+* Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
+* 
+
+#### Linguagens e Ferramentas
+
 <img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
