@@ -4,20 +4,22 @@
 <h3 align="left"><b> Sobre Mim </b></h3>
 
 Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). 
+
 <br/>
 
 ### Projetos em Desenvolvimeto
 
 * Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
-* Resumo de todos os conteúdos de Física _( [em construção] )_ e Matemática _( indisponível )_ a nível do Ensino Médio
+* Resumo de todos os conteúdos de Física _( [em construção] )_ e Matemática _( indisponível )_ a nível do Ensino Médio.
 <br/>
 
-### Linguagens e Ferramentas
+### Ferramentas e Tecnologias
 
 <img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
-<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" /></img>
+<img align="left" alt="html" width="26px" src="https://camo.githubusercontent.com/984b2a88651f862c502e3881c6fa5d27f077948241fe49684a0879cae28014e2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"/></img>
+<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
 <br />
 
 ### Contato
