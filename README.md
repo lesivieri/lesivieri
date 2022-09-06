@@ -1,25 +1,14 @@
 
-<h2 align="center"><b>Hello there :vulcan_salute:</b></h2>
+<h2 align="center"><b>Olá a todos :vulcan_salute:</b></h2>
 
-### I'm Sivieri and I'm currently finishing my Master's degree in Physics at [Aeronautics Institute of Technology][ITA]
+Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). Trabalho na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
 
-#### Things I'm currently working on ::
-
-1.  <b> Finishing my Master's degree </b> <br />
-    * <i>Lagrangian Coherent Structures in Astrodynamic Models -- the code (<b>fortran language</b>) that I am writing for this work will be available by the end of this year (<b>2021</b>)</i>
-
-2.  <b>Taking a Bootcamp of Data Science by</b> [<img align="" alt="alura" width="38px" src="https://www.alura.com.br/assets/img/home/alura-logo.1616501197.svg" /></img>][website]
-
-<br />
-
-<p align=center>
 #### Languages and Tools ::
 <img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/120px-Fortran_logo.svg.png" /></img>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></img>
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" /></img>
 <br />
-</p>
 
 #### Connect with me :: 
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
@@ -44,4 +33,7 @@
 [instagram]: https://www.instagram.com/
 [twitter]: https://twitter.com/LuizSivieri
 [linkedin]: https://www.linkedin.com/in/luiz-eduardo-sivieri-371bab188/
-[ITA]: http://www.ita.br/
+[ITA]: https://www.pgfis.ita.br/pt/
+[PUC-PR]: https://www.pucpr.br/cursos-graduacao/fisica/
+[PIBID]: http://portal.mec.gov.br/pibid
+[SEED-PR]: https://www.educacao.pr.gov.br/
