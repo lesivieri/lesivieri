@@ -38,7 +38,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 
 ### Idiomas
 <img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/></img>
-[<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png"/>][english]
+[<img align="left" alt="english" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" />][english]
 <img align="left" alt="DE" width="26px" src="https://freesvg.org/img/Flag_of_Germany.png"/></img>
 <img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img>
 
@@ -68,7 +68,6 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [gmail]: mailto:lesivieri.dev@gmail.com
 
 <!-- Idiomas -->
-[português-br]:
 [english]: https://github.com/lesivieri/lesivieri/blob/main/English.md
 
 <!-- Projetos -->
