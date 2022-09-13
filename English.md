@@ -35,7 +35,7 @@ I'm Luiz E. Sivieri and I'm from Brazil. I have a Major in Physics by Pontifical
 <br>
 
 ### Languages
-<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/></img>
+[<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/>][BR]
 <img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png"/></img>
 <img align="left" alt="DE" width="26px" src="https://freesvg.org/img/Flag_of_Germany.png"/></img>
 <img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img>
@@ -63,6 +63,10 @@ I'm Luiz E. Sivieri and I'm from Brazil. I have a Major in Physics by Pontifical
 [PIBID]: http://portal.mec.gov.br/pibid
 [SEED-PR]: https://www.educacao.pr.gov.br/
 [gmail]: mailto:lesivieri.dev@gmail.com
+
+<!-- Idiomas -->
+[BR]: https://github.com/lesivieri
+[EN]: https://github.com/lesivieri/lesivieri/blob/main/English.md
 
 <!-- Projetos -->
 [under development]: https://lesivieri.github.io/fisem/teste3
