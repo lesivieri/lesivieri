@@ -1,3 +1,14 @@
+---
+
+<h3 align="left"><b>Select Language // Escolha o Idioma</b></h3>
+
+[<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" />][EN]
+[<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/>][BR]
+
+<br>
+
+---
+
 <h2 align="center"><b>Hello there :vulcan_salute:</b></h2>
 
 <h3 align="left"><b> About Me </b></h3>
@@ -35,10 +46,10 @@ I'm Luiz E. Sivieri and I'm from Brazil. I have a Major in Physics by Pontifical
 <br>
 
 ### Languages
-[<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/>][BR]
-<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png"/></img>
+<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/></img>
+<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" /></img>
 <img align="left" alt="DE" width="26px" src="https://freesvg.org/img/Flag_of_Germany.png"/></img>
-<!-- <img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img> -->
+<img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img>
 
 <br>
 <br>
