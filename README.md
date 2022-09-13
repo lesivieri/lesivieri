@@ -1,3 +1,13 @@
+---
+
+<h3 align="left"><b>Escolha o Idioma // Select Language</b></h3>
+
+[<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/>][BR]
+[<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" />][EN]
+
+<br>
+
+---
 
 <h2 align="center"><b>Olá a todos :vulcan_salute:</b></h2>
 
@@ -38,7 +48,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 
 ### Idiomas
 <img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/></img>
-[<img align="left" alt="english" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" />][english]
+<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" /></img>
 <img align="left" alt="DE" width="26px" src="https://freesvg.org/img/Flag_of_Germany.png"/></img>
 <img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img>
 
@@ -68,7 +78,8 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [gmail]: mailto:lesivieri.dev@gmail.com
 
 <!-- Idiomas -->
-[english]: https://github.com/lesivieri/lesivieri/blob/main/English.md
+[BR]: https://github.com/lesivieri
+[EN]: https://github.com/lesivieri/lesivieri/blob/main/English.md
 
 <!-- Projetos -->
 [em construção]: https://lesivieri.github.io/fisem/teste3
