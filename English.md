@@ -38,7 +38,7 @@ I'm Luiz E. Sivieri and I'm from Brazil. I have a Major in Physics by Pontifical
 [<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/>][BR]
 <img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png"/></img>
 <img align="left" alt="DE" width="26px" src="https://freesvg.org/img/Flag_of_Germany.png"/></img>
-<img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img>
+<!-- <img align="left" alt="IT" width="26px" src="https://freesvg.org/img/italian-flag.png"/></img> -->
 
 <br>
 <br>
