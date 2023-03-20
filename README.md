@@ -23,7 +23,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></img>
 <img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></img>
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/64px-Visual_Studio_Code_1.18_icon.svg.png" /></img>
-<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/512/9544/9544010.png"/></img>
+<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png"/></img>
 <img align="left" alt="java" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></img>
 <br>
 <br>
