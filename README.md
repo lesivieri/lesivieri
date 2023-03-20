@@ -13,14 +13,15 @@
 
 <h3 align="left"><b> Sobre Mim </b></h3>
 
-Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]). 
+Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]), além de estar cursando o 1º semestre de Análise e Desnvolvimento de Sistemas na ([UNIFEOD-UNIVAP]).
 
 <br/>
 
 ### Projetos em Desenvolvimeto
 
-* Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Mecânica Celeste.
+* Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Astronáutica.
 * Resumo de todos os conteúdos de Física _( [em construção] )_ e Matemática _( indisponível )_ a nível do Ensino Médio.
+* Iniciando o projeto _Ciência & Programação_ que visa a resolução de problemas de física, matemática e programação a nível de ensino médio e superior.
 <br/>
 
 ### Ferramentas e Tecnologias
@@ -43,6 +44,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img aling="left" alt="YouTube" width="26px" src="https://fontawesome.com/v5/icons/youtube?f=brands&s=solid&pc=%23df162a"/>][YouTube]
 <br>
 <br>
 
@@ -68,7 +70,8 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 
 <!-- SITES -->
 [website]: https://www.alura.com.br/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/cienciaprogramacao/
+[YouTube]: https://www.youtube.com/@CienciaProgramacao
 [twitter]: https://twitter.com/LuizSivieri
 [linkedin]: https://www.linkedin.com/in/luiz-eduardo-sivieri-371bab188/
 [ITA]: https://www.pgfis.ita.br/pt/
@@ -76,6 +79,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [PIBID]: http://portal.mec.gov.br/pibid
 [SEED-PR]: https://www.educacao.pr.gov.br/
 [gmail]: mailto:lesivieri.dev@gmail.com
+[UNIFEOB-UNIVAP]: https://ead.univap.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead
 
 <!-- Idiomas -->
 [BR]: https://github.com/lesivieri
