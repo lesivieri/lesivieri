@@ -1,19 +1,8 @@
----
-
-<h3 align="left"><b>Escolha o Idioma // Select Language</b></h3>
-
-[<img align="left" alt="BR" width="26px" src="https://freesvg.org/img/1534709199.png"/>][BR]
-[<img align="left" alt="EN" width="26px" src="https://freesvg.org/img/US-UK_Flag.png" />][EN]
-
-<br>
-
----
-
 <h2 align="center"><b>Olá a todos :vulcan_salute:</b></h2>
 
 <h3 align="left"><b> Sobre Mim </b></h3>
 
-Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]), além de estar cursando o 1º semestre de Análise e Desnvolvimento de Sistemas na ([UNIFEOD-UNIVAP]).
+Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Universidade Católica do Paraná ([PUC-PR]). Durante a graduação, fui bolsista no Programa Insitucional de Bolsa de Iniciação à Docência ([PIBID]) e também pude atuar como Professor Estadual Temporário pela Secretaria da Educação e do Esporte do Paraná ([SEED-PR]). Sou Mestre em Física pelo Instituto Tecnológico de Aeronáutica ([ITA]), e atualmente doutorando como aluno especial em Física no ([ITA]), além de estar cursando o 1º semestre de Análise e Desnvolvimento de Sistemas na ([UNIFEOB-UNIVAP]).
 
 <br/>
 
