@@ -44,7 +44,7 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
-[<img aling="left" alt="YouTube" width="26px" src="https://fontawesome.com/v5/icons/youtube?f=brands&s=solid&pc=%23df162a"/>][YouTube]
+[<img aling="left" alt="YouTube" width="26px" src="[https://fontawesome.com/v5/icons/youtube?f=brands&s=solid&pc=%23df162a](https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png)"/>][YouTube]
 <br>
 <br>
 
