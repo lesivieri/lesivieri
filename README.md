@@ -9,8 +9,6 @@ Eu sou Luiz E. Sivieri, sou formado Licenciatura em Física pela Pontifícia Uni
 ### Projetos em Desenvolvimeto
 
 * Desenvolvo pesquisa na área de Dinâmica Não-Linear e Sistemas Complexos com ênfase em Astronáutica.
-* Resumo de todos os conteúdos de [Física] ***(concluído)*** e Matemática ***(indisponível)*** a nível do Ensino Médio.
-<br/>
 
 ### Ferramentas e Tecnologias
 
